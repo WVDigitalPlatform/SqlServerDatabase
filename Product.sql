@@ -2,5 +2,6 @@
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Name] VARCHAR(50) NULL, 
-    [Cost] INT NULL
+    [Cost] INT NULL, 
+    [Colourt] NVARCHAR(50) NULL
 )
